@@ -4,6 +4,7 @@
 
 Links to projects: 
 
-https://listen-sitnexttome.web.app/
+[ListenSitNextToMe](https://listen-sitnexttome.web.app/)
 
-https://todosvamosamorir-podcast.web.app/
+[TodosVamosAMorir-Podcast](https://todosvamosamorir-podcast.web.app/)
+
